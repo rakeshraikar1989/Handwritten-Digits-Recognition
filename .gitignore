@@ -1,5 +1,7 @@
+.venv/
 mnist_env/
-.ipynb_checkpoints/
 __pycache__/
+.ipynb_checkpoints/
 *.py[cod]
 .DS_Store
+Thumbs.db
